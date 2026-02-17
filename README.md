@@ -21,6 +21,14 @@ style.css         → Website styling
 app.js            → Website functionality
 data.json         → Movie + showtime data 
 
+Primary Programming Language
+We are building this project using HTML5 as our primary programming language.
+
+- It is the standard language for creating web pages
+- Beginner‑friendly and easy for the whole team to learn
+- Works smoothly with CSS (styling) and JavaScript (functionality)
+- Runs in any browser with no installation required
+- As the project grows, we may also use CSS and JavaScript, but HTML5 is our core language for structure and content.
 
 Team Workflow
 Everyone works in their own Codespace
