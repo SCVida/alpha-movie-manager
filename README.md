@@ -22,7 +22,7 @@ app.js            → Website functionality
 data.json         → Movie + showtime data 
 
 Primary Programming Language
-We are building this project using HTML5/C# as our primary programming language.
+We are building this project using HTML5 as our primary programming language.
 
 - It is the standard language for creating web pages
 - Beginner‑friendly and easy for the whole team to learn
